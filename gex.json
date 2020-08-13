@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hello-world",
+    "main": "hello-world/index.js"
+  }
+]
