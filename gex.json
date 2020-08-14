@@ -9,7 +9,7 @@
     "dependencies": {
       "ink": {
         "repo": "Rafostar/gjs-ink",
-        "version": "a39b3f9"
+        "version": "d060d39"
       }
     }
   }
