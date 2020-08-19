@@ -4,12 +4,12 @@
     "main": "hello-world/index.js"
   },
   {
-    "name": "Mario",
+    "name": "mario",
     "main": "mario/index.js",
     "dependencies": {
       "ink": {
-        "repo": "Rafostar/gjs-ink",
-        "version": "d060d39"
+        "repo": "Rafostar/ink",
+        "version": "master"
       }
     }
   }
